@@ -1,0 +1,15 @@
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+
+  td.table-divider {
+      text-align: center;
+      background-color: pink;
+      }
+
+      .header-styles {
+        /* font-family: 'Ubuntu Condensed', sans-serif; */
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1em;
+    }
