@@ -5,11 +5,10 @@ table.center {
 
   td.table-divider {
       text-align: center;
-      background-color: pink;
+     font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
       }
 
-      .header-styles {
-        /* font-family: 'Ubuntu Condensed', sans-serif; */
-        font-family: 'Montserrat', sans-serif;
-        font-size: 1em;
-    }
+      table {
+        border-spacing: 15px;
+      }
